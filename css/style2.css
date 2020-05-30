@@ -1,0 +1,16 @@
+.products {
+	background-color: chocolate;
+	color: #ffffff;
+	padding: 10px 15px;
+}
+.products-item {
+}
+.products-item__title {
+	width: 50%;
+	height: auto;
+	box-sizing: border-box;
+	margin: 10px auto;
+	padding: 10px 15px;
+}
+.products-item__descriptions {
+}
